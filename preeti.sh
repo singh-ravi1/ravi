@@ -8,4 +8,6 @@ else
 	echo "You get a bonus if the calls"
 	echo "handled exceeds 150 or"
 	echo "calls closed exceeds 50"
+	echo "Hi Preeti"
+	echo "Hi Ravi"
 fi
